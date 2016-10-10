@@ -10,8 +10,8 @@ Any material relating to an episode will be available in the *Episodes* folder. 
 Have a topic you'd like to see covered? Or perhaps just some general feedback? Great! You can send it via:
 
 1. A [GitHub Issue](https://github.com/staceyhaffner/dotGAME/issues)
-1. Twitter at [@yecats131](twitter.com/yecats131)
-2. Email dotgame@microsoft.com
+2. Twitter at [@yecats131](www.twitter.com/yecats131)
+3. Email dotgame@microsoft.com
 
 ##Resources
 Here are some helpful resources for learning game development:
