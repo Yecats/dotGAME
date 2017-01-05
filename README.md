@@ -16,10 +16,10 @@ Have a topic you'd like to see covered? A great resource that should be listed? 
 Here's a list of resources to help get you started in various aspects of game development.
 
 ### Game Engines
-1. [CryEngine](https://www.cryengine.com/) 
+1. [Unity](unity3d.com) 
 2. [MonoGame](http://www.monogame.net/)
 3. [SadConsole](https://github.com/Thraka/SadConsole)
-4. [Unity](unity3d.com) 
+4. [CryEngine](https://www.cryengine.com/)
 
 ### 3D Modeling, Rigging and Animation 
 1. [Blender](https://www.blender.org/) - A free/open source 3D creation suite. Great for modeling, rigging and animation.
