@@ -5,6 +5,10 @@ In this [episode](https://channel9.msdn.com/Shows/dotGAME/Unity-Navigation-Part-
 
 [![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Unity-Navigation-Part-2)
 
+Where is the starter project?
+
+This episode is part of a series. You can use the "Finished Project" from the [Unity Navigation Part 1](../UnityNavigationPt1) episode as the starting project.
+
 # Resources
 
 * NavMesh Obstacle [Manual](https://docs.unity3d.com/Manual/class-NavMeshObstacle.html) and [Scripting API](https://docs.unity3d.com/ScriptReference/AI.NavMeshObstacle.html)
