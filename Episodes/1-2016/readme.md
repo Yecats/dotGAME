@@ -6,4 +6,8 @@ In this episode we will take a look at the basics of using Unity while setting u
 
 ## [Unity Navigation - Part 1](UnityNavigationPt1)
 
-In this [episode](https://channel9.msdn.com/Shows/dotGAME/Unity-Navigation-Part-1) we will add point and click style movement to our character using Unity's Navigation System. More specifically, we will go over baking a navigation mesh, setting up the NavMeshAgent and writing code to make our character move to a position when the user clicks on the ground. This video will also introduce the concept of Raycasting.
+In this episode we will add point and click style movement to our character using Unity's Navigation System. More specifically, we will go over baking a navigation mesh, setting up the NavMeshAgent and writing code to make our character move to a position when the user clicks on the ground. This video will also introduce the concept of Raycasting.
+
+## [Unity Navigation - Part 2](UnityNavigationPt2)
+
+In this episode, we will add the finishing touches to the point and click style movement. We will use [NavMesh Obstacles](https://docs.unity3d.com/Manual/class-NavMeshObstacle.html) to define areas that our character should not walk through, such as the well. We'll also show the player where they clicked by animating a simple sprite, instantiating copies of it every time the player clicks and then destroying it once the animation is complete.
