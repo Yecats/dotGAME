@@ -11,3 +11,7 @@ In this episode we will add point and click style movement to our character usin
 ## [Unity Navigation - Part 2](UnityNavigationPt2)
 
 In this episode, we will add the finishing touches to the point and click style movement. We will use [NavMesh Obstacles](https://docs.unity3d.com/Manual/class-NavMeshObstacle.html) to define areas that our character should not walk through, such as the well. We'll also show the player where they clicked by animating a simple sprite, instantiating copies of it every time the player clicks and then destroying it once the animation is complete.
+
+## [Inventory and Store System - Part 1](UnityItemSystemPt1)
+
+In this episode, we continue our RPG project, starting off by building an item system which will also be used for equipment and merchant functionality. To prepare for the system, we'll go over more Unity fundamentals, like methods of object rotation, filtering, tags and sorting layers.
