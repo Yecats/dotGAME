@@ -1,16 +1,23 @@
 
-# Unity Navigation - Part 2
+# Inventory and Store System - Part 1
 
-In this [episode](https://channel9.msdn.com/Shows/dotGAME/Unity-Navigation-Part-2), we will add the finishing touches to the point and click style movement. We will use [NavMesh Obstacles](https://docs.unity3d.com/Manual/class-NavMeshObstacle.html) to define areas that our character should not walk through, such as the well. We'll also show the player where they clicked by animating a simple sprite, instantiating copies of it every time the player clicks and then destroying it once the animation is complete.
+In this episode, we continue our RPG project, starting off by building an item system which will also be used for equipment and merchant functionality. To prepare for the system, we'll go over more Unity fundamentals, like methods of object rotation, filtering, tags and sorting layers.
 
-[![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Unity-Navigation-Part-2)
+[![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-1)
+
+# Where is the starter project?
+This episode is part of a series. You can use the "Finished Project" from the [Basics of Unity](../UnityNavigationPt2) episode as the starting project.
+
+#Challenge
+This episodes challenge is to build on the rotation concepts that we went over and apply them to the merchant. When the player starts walking towards the merchant, the merchant should also have their rotation adjusted to face the player. 
 
 # Resources
 
-* NavMesh Obstacle [Manual](https://docs.unity3d.com/Manual/class-NavMeshObstacle.html) and [Scripting API](https://docs.unity3d.com/ScriptReference/AI.NavMeshObstacle.html)
-* [Sprites](https://docs.unity3d.com/Manual/Sprites.html)
-* [Animator Component](https://docs.unity3d.com/Manual/class-Animator.html)
-* [Animator Controller](https://docs.unity3d.com/Manual/class-AnimatorController.html)
+* [Rotation and Orientation in Unity](https://docs.unity3d.com/Manual/QuaternionAndEulerRotationsInUnity.html)
+* [Layers](https://docs.unity3d.com/Manual/Layers.html)
+* [Tags and Layers](https://docs.unity3d.com/Manual/class-TagManager.html)
+* [Layer-Based Collision Detection](https://docs.unity3d.com/Manual/LayerBasedCollision.html)
+* [Sorting Layers](https://unity3d.com/learn/tutorials/topics/2d-game-creation/sorting-layers)
 
 # Credit
 
