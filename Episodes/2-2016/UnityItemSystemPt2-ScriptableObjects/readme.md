@@ -6,7 +6,7 @@ In this [episode](https://channel9.msdn.com/Shows/dotGAME/Item-System-Part-2-Scr
 [![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-1)
 
 # Where is the starter project?
-This episode is part of a series. You can use the "Finished Project" from the [Unity Navigation - Pt 2](../UnityNavigationPt2) episode as the starting project.
+This episode is part of a series. You can use the "Finished Project" from the [Unity Navigation - Pt 2](../../1-2016/UnityItemSystemPt1) episode as the starting project.
 
 # Challenge
 This episodes challenge is to convert the Currency enum in `CurrencyDefinition` to be a Scriptable Object. At a minimum it should have Name and Sprite properties. 
