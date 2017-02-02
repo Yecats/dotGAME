@@ -66,6 +66,7 @@ namespace Assets.Scripts.NPC
         {
             Quaternion lookRotation;
 
+            //Check to see if there's an object to rotate towards. If not, we're going back to the default location.
             if (_objectToLookAt != null)
             {
                 Vector3 direction = (_objectToLookAt.position - transform.position).normalized;
@@ -76,11 +77,23 @@ namespace Assets.Scripts.NPC
                 lookRotation =  _defaultRotation;
             }
 
+            //Rotate
             transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * speed);
 
-            if (Quaternion.Angle(transform.rotation, lookRotation) < 1)
+            //Check if we should be done rotating. Null check as sometimes we drop the object before we've finished this call.
+            if (_objectToLookAt != null && _objectToLookAt.tag.Equals("Player"))
             {
-                _isRotating = false;
+                if (Quaternion.Angle(transform.rotation, lookRotation) < 1 && _objectToLookAt.GetComponent<MovementController>().GetIsNavigationDonePathing())
+                {
+                    _isRotating = false;
+                }
+            }
+            else
+            {
+                if (Quaternion.Angle(transform.rotation, lookRotation) < 1)
+                {
+                    _isRotating = false;
+                }
             }
         }
     }
