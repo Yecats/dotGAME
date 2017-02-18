@@ -9,4 +9,4 @@ In this [episode](https://channel9.msdn.com/Shows/dotGAME/Getting-Started-with-S
 
 * [SadConsole GitHub Repo](https://github.com/Thraka/SadConsole)
 * [SadConsole Editor GitHub Repo](https://github.com/Thraka/SadConsoleEditor/)
-* [SadConsole SubReddit](https://channel9.msdn.com/Shows/dotGAME/reddit.com/r/sadconsole)
+* [SadConsole SubReddit](www.reddit.com/r/sadconsole)
