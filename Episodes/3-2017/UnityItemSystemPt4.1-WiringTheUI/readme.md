@@ -6,7 +6,7 @@ In this [episode](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-Sy
 [![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-41-Wiring-up-the-UI)
 
 # Where is the starter project?
-This is part of a series. You can use the "Finished Project" from the [Inventory and Store System - Part 2](../UnityItemSystemPt3-UI) episode as the starting project.
+This is part of a series. You can use the "Finished Project" from the [Inventory and Store System - Part 3](../UnityItemSystemPt3-UI) episode as the starting project.
 
 # Challenge
 There is no challenge for this episode as it will be included at the end of the next episode.
