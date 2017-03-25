@@ -1,6 +1,6 @@
 # Inventory and Store System - Part 4.2 (Populating the Data)
 
-In this episode, we are going to wrap up the Store UI in our RPG project. We will focus on populating the data that we've setup with scriptable objects, using various techniques that we have gone over in previous episodes. We'll also tackle some common problems such as clearing out the data from the UI, locking player movement and adding an OnClick event to a button to close the UI.
+In this [episode](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-42-Populating-the-Data), we are going to wrap up the Store UI in our RPG project. We will focus on populating the data that we've setup with scriptable objects, using various techniques that we have gone over in previous episodes. We'll also tackle some common problems such as clearing out the data from the UI, locking player movement and adding an OnClick event to a button to close the UI.
 
 [![screenshot](screenshot.png)](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-41-Wiring-up-the-UI)
 
