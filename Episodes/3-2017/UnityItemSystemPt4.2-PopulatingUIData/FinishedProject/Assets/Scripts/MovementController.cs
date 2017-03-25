@@ -12,6 +12,7 @@ public class MovementController : MonoBehaviour
     private bool _needsRotation;
     public bool IsMoving;
     private Transform _npcToView;
+    public bool IsMovementLocked = false;
 
     // Use this for initialization
     void Start()
@@ -22,7 +23,7 @@ public class MovementController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !IsMovementLocked)
         {
             RaycastHit hit;
 
@@ -35,6 +36,11 @@ public class MovementController : MonoBehaviour
                     Instantiate(PositionIndicator, new Vector3(hit.point.x, 0.1f, hit.point.z), Quaternion.Euler(-90f, 0, 0));
                     Move(hit.point);
                     _needsRotation = false;
+
+                    if (_npcToView != null && _npcToView.transform.tag.Equals("Merchant"))
+                    {
+                        _npcToView.transform.GetComponent<MerchantInteraction>().StopStoreUICoroutine();
+                    }
                 }
                 //we've clicked on an NPC
                 else

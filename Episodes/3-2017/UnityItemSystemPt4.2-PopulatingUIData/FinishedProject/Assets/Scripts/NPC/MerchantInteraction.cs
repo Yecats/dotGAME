@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assets.Scripts.UserInterface;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,11 +22,15 @@ namespace Assets.Scripts.NPC
         /// <param name="moveController">Player movement controller which is used to evaluate when moving has stopped.</param>
         public IEnumerator WaitToShowStoreUI(MovementController moveController)
         {
+            _storeUI.GetComponent<StoreUIController>().PopulateInventory(_inventoryList);
+
             yield return new WaitUntil(() => moveController.IsMoving == false);
             yield return new WaitForSeconds(1f);
 
             _storeUI.transform.parent.gameObject.SetActive(true);
             _storeUI.SetActive(true);
+
+            moveController.IsMovementLocked = true;
         }
 
         /// <summary>
