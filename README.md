@@ -5,7 +5,7 @@
 ## How this repository is organized
 Any artifacts relating to an episode will be available in the *Episodes* folder, which is broken down by month and year. Artifacts will typically be code samples or full projects. 
 
-You can find the list of episodes organized by engine and topic [here](episodes\newEpisode).
+You can find the list of episodes organized by engine and topic [here](episodes).
 
 ## Feedback and topic requests
 Have a topic you'd like to see covered? A great resource that should be listed? Or perhaps just some general feedback? Great! You can send it via:
