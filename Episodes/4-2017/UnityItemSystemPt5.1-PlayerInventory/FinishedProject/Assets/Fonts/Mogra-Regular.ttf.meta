@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1526b7ed2d357b4f892efbb6dbe85c1
+timeCreated: 1488068578
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mogra
+  fontNames:
+  - Mogra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
