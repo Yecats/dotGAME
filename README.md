@@ -47,6 +47,8 @@ I recommend you double check the licensing on everything listed as it may have c
 
 | Name                                                                                                                                 | Description                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)                                                                      | 
+Over 1 million free 3D models indexed.              |
 | [Kenney Game Assets](http://www.kenney.nl/)                                                                                          | Over 35,000 free images, audio files and 3D models. |
 | [Free Lowpoly Packs](https://www.reddit.com/r/gamedev/comments/5lwhoe/free_lowpolyflat_shaded_cars/)                                 | Free low-poly assets created by QuaterniusDev.      |
 | [Reddit List of Free 2D Assets](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/) | List of Free 2D Assets maintained on Reddit.        |
