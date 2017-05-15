@@ -1,5 +1,8 @@
 # All episodes at a glance
 
+## Other
+* [Build 2017 - Xbox Live, Creators Program and more](https://channel9.msdn.com/Shows/dotGAME/Build-2017-Xbox-Live-Creators-Program-and-more)
+
 ## SadConsole
 * [Getting Started with SadConsole](2-2017\GettingStartedwithSadConsole): Covers fundamentals.
 
