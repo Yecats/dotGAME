@@ -3,6 +3,9 @@
 ## SadConsole
 * [Getting Started with SadConsole](2-2017\GettingStartedwithSadConsole): Covers fundamentals.
 
+## Mixer Interactivity
+* [Getting started with Mixer Interactivity in Unity](6-2017/Getting-started-with-Mixer-Interactivity): Covers the fundamentals for setting up Mixer Interactivity in a Unity game.
+
 ## Unity
 
 ### General

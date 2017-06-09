@@ -1,0 +1,34 @@
+Overview
+=====================================================================================================
+This sample demonstrates how to prevent user input by either disabling a button or setting a cooldown.
+This sample also shows how to show progress for a button.
+
+Instructions
+-----------------------------------------------------------------------------------------------------
+1. Open the Mixer menu and select "Interactive Studio".
+2. Create a new project.
+3. Go to the Build tab.
+4. Create a new button control. Name it "giveHealth".
+5. Place the button on the grid.
+6. Click the save button.
+7. Go to the Code tab.
+8. Click the "OAuth Clients" link.
+9. On the OAuth Clients page, click the "Create new client" button.
+10. Create a new OAuth client with the following information:
+   * Name: "Test"
+   * Website: "http://mixer.com"
+   * Hosts: "*.mixer.com"
+11. Click "Create Client" to save.
+12. In the table, copy the value in the ID column.
+13. Go to Unity.
+14. Open the Mixer menu and select "Open Mixer Editor".
+15. Paste the ID from step 7 into the "OAuth Client ID" field.
+16. Paste the code from step 8 into the "ProjectVersionID" field in the editor.
+17. Click the "Save project information" button.
+18. Press play in Unity editor.
+19. A code will be displayed. Go to http://mixer.com/go and enter the code.
+20. Click yes on the permissions dialog.
+21. Go to your Mixer channel: http://mixer.com/<your channel name>.
+22. Press the "Toggle Disable / Enable" button to see the button on the channel disabled and enabled.
+23. Press the "Trigger 30 second cooldown" button to see the button on the channel show a cooldown timer.
+24. Press the "Set progress to 50%" button to see the button on the channel show a progress bar that is 50% full.

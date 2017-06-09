@@ -1,0 +1,44 @@
+Overview
+-----------------------------------------------------------------------------------------------------
+This example demonstrates how to use groups. Groups can be used to segment the audience
+and show different controls to different people. For example, you could divide the audience into
+teams. Or you can have groups of 1, where each participant controls a character and is shown
+different controls based on which character they get to control.
+
+Instructions
+-----------------------------------------------------------------------------------------------------
+1. Open the Mixer menu and select "Interactive Studio".
+2. Create a new project.
+3. Go to the Build tab.
+4. Create a new scene. Name it "Group1".
+5. Create a new button control. Name it "button1" and set the text to "Button 1".
+6. Place the button on the grid.
+7. Create another scene. Name it "Group2".
+8. Create a new button control. Name it "button2" and set the text to "Button 2".
+9. Place the button on the grid.
+10. Click the save button.
+11. Go to the Code tab.
+12. Click the "OAuth Clients" link.
+13. On the OAuth Clients page, click the "Create new client" button.
+14. Create a new OAuth client with the following information:
+   * Name: "Test"
+   * Website: "http://mixer.com"
+   * Hosts: "*.mixer.com"
+15. Click "Create Client" to save.
+16. In the table, copy the value in the ID column.
+17. Go to Unity.
+18. Open the Mixer menu and select "Open Mixer Editor".
+19. Paste the ID from step 7 into the "OAuth Client ID" field.
+20. Paste the code from step 8 into the "ProjectVersionID" field in the editor.
+21. Click the "Save project information" button.
+22. In the Hierarchy window, click on the InteractivityManager.
+22. In the Inspector window for the InteractivityManager, in the Groups section, add the following groups:
+* GroupID: "Group1", SceneID: "Group1"
+* GroupID: "Group2", SceneID: "Group2"
+22. Press play in Unity editor.
+23. A code will be displayed. Go to http://mixer.com/go and enter the code.
+24. Click yes on the permissions dialog.
+25. Go to your Mixer channel: http://mixer.com/<your channel name>.
+26. The Unity window will print the name of your Mixer user and put it in a group.
+27. There are two groups. Depending on which group the user is placed in,
+they will be show different controls.
