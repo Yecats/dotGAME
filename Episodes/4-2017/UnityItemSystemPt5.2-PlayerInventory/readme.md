@@ -1,4 +1,4 @@
-# Inventory and Store System - Part 5.1 (Finishing the Inventory & Buying Equipment)
+# Inventory and Store System - Part 5.2 (Finishing the Inventory & Buying Equipment)
 
 In this [episode](https://channel9.msdn.com/Shows/dotGAME/Inventory-and-Store-System-Part-52-Creating-the-Player-Inventory) we are going to pick up where we left off by wrapping up the logic for displaying items in the players inventory. First, we will fill up the inventory slots with existing items that the player has, then we will populate their currency. After that, we'll make it so that the player can buy items from the merchant by hooking up an onClick event via code.
 
