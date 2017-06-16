@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GamePlugin.core</name>
+    </assembly>
+    <members>
+        <member name="T:DotGame.DotGameCorePlugin">
+            <summary>
+            Defines a Duality core plugin.
+            </summary>
+        </member>
+        <member name="P:DotGame.PlayerShip.TurnSpeed">
+            <summary>
+            This is an awesome XML comment.
+            </summary>
+        </member>
+    </members>
+</doc>

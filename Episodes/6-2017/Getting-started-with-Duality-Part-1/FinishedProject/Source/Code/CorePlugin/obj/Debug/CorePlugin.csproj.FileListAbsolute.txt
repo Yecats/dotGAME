@@ -1,0 +1,17 @@
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.pdb
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.xml
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\Duality.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\DualityPrimitives.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\NVorbis.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\FarseerDuality.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\Duality.pdb
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\Duality.xml
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\DualityPrimitives.pdb
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\DualityPrimitives.xml
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\NVorbis.xml
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\FarseerDuality.pdb
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\bin\Debug\FarseerDuality.xml
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\obj\Debug\CorePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.dll
+C:\Users\Fedja\Desktop\DotGame\LiveDemo\DotGame\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.pdb

@@ -1,5 +1,8 @@
 # All episodes at a glance
 
+## Duality
+* [Getting started wtih Duality - Part 1](6-2017/Getting-started-with-Duality-Part-1)
+
 ## Other
 * [Build 2017 - Xbox Live, Creators Program and more](https://channel9.msdn.com/Shows/dotGAME/Build-2017-Xbox-Live-Creators-Program-and-more)
 
