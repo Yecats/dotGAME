@@ -2,15 +2,16 @@
 
 ## Duality
 * [Getting started wtih Duality - Part 1](6-2017/Getting-started-with-Duality-Part-1)
+* [Getting started wtih Duality - Part 2](6-2017/Getting-started-with-Duality-Part-2)
 
 ## Other
 * [Build 2017 - Xbox Live, Creators Program and more](https://channel9.msdn.com/Shows/dotGAME/Build-2017-Xbox-Live-Creators-Program-and-more)
 
-## SadConsole
-* [Getting Started with SadConsole](2-2017/GettingStartedwithSadConsole): Covers fundamentals.
-
 ## Mixer Interactivity
 * [Getting started with Mixer Interactivity in Unity](6-2017/Getting-started-with-Mixer-Interactivity): Covers the fundamentals for setting up Mixer Interactivity in a Unity game.
+
+## SadConsole
+* [Getting Started with SadConsole](2-2017/GettingStartedwithSadConsole): Covers fundamentals.
 
 ## Unity
 
