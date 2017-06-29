@@ -2,6 +2,9 @@
 
 .GAME is a [show](https://channel9.msdn.com/Shows/dotGAME) hosted on [Channel 9](https://channel9.msdn.com/) that is dedicated to game development with a primary focus on .NET technology. Each episode will focus on tutorials, cover helpful tips/tricks, or feature an interview with an industry expert. This repository houses all the artifacts tied to the episodes so that you can follow along or play around with the final project.
 
+## How to find out when new videos are posted
+You can either follow me on Twitter ([@yecats131](https://twitter.com/yecats131)), watch this repo or subscribe via the [.GAME page](https://channel9.msdn.com/Shows/dotGAME) on Channel 9 for an e-mail notification.
+
 ## How this repository is organized
 Any artifacts relating to an episode will be available in the *Episodes* folder, which is broken down by month and year. Artifacts will typically be code samples or full projects. 
 
