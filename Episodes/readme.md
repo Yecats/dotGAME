@@ -5,6 +5,7 @@
 * [Getting started wtih Duality - Part 2](6-2017/Getting-started-with-Duality-Part-2)
 
 ## Other
+* [Introducing the Dream.Build.Play Game Developer Competition](https://channel9.msdn.com/Shows/dotGAME/Introducing-the-DreamBuildPlay-Game-Developer-Competition)
 * [Build 2017 - Xbox Live, Creators Program and more](https://channel9.msdn.com/Shows/dotGAME/Build-2017-Xbox-Live-Creators-Program-and-more)
 
 ## Mixer Interactivity
