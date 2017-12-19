@@ -1,4 +1,4 @@
-### .GAME has merged with [Level Up](https://channel9.msdn.com/Shows/Level-Up) on Channel 9! Moving forward, new tutorial episode artifacts will be posted on the [Level Up Repository](https://github.com/staceyhaffner/LevelUp) to avoid confusion. 
+### .GAME has merged with [Level Up](https://channel9.msdn.com/Shows/Level-Up) on Channel 9! Moving forward, new tutorial episode artifacts will be posted on the [Level Up Repository](https://github.com/staceyhaffner/LevelUp). 
 
 # .GAME
 
