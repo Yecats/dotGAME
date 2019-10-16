@@ -1,5 +1,3 @@
-### .GAME has merged with [Level Up](https://channel9.msdn.com/Shows/Level-Up) on Channel 9! Moving forward, new tutorial episode artifacts will be posted on the [Level Up Repository](https://github.com/staceyhaffner/LevelUp). 
-
 # .GAME
 
 .GAME is a [show](https://channel9.msdn.com/Shows/dotGAME) hosted on [Channel 9](https://channel9.msdn.com/) that is dedicated to game development with a primary focus on .NET technology. Each episode will focus on tutorials, cover helpful tips/tricks, or feature an interview with an industry expert. This repository houses all the artifacts tied to the episodes so that you can follow along or play around with the final project.
