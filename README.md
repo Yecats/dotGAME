@@ -1,3 +1,5 @@
+> ## .GAME is no longer being worked on as I have left Microsoft. Head over to my new respository, [Game Dev Tutorials](https://github.com/Yecats/GameDevTutorials), for the latest content.
+
 # .GAME
 
 .GAME is a [show](https://channel9.msdn.com/Shows/dotGAME) hosted on [Channel 9](https://channel9.msdn.com/) that is dedicated to game development with a primary focus on .NET technology. Each episode will focus on tutorials, cover helpful tips/tricks, or feature an interview with an industry expert. This repository houses all the artifacts tied to the episodes so that you can follow along or play around with the final project.
